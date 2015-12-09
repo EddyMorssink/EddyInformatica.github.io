@@ -1,0 +1,45 @@
+body {
+  background-image: url("http://hobby.blogo.nl/files/2015/02/festivals-in-juli-en-augustus.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+a {
+  text-decoration: none;
+  color: #8C8C8C;
+}
+
+a:visited, a:active, a:hover {
+  text-decoration: none;
+  color: #0dbb72;
+}
+p {
+  color: #0dbb72;
+  font-size: 40px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+span {
+  background-color: white;
+}
+
+.button{
+ display: inline-block;
+ border:2px solid #BFBFBF;
+ color: #8C8C8C;
+ border-radius: 30px;
+ -webkit-border-radius: 30px;
+ -moz-border-radius: 30px;
+ font-family: Trebuchet MS;
+ width: 85px;
+ height: auto;
+ font-size: 19px;
+ padding: 13px 16px;
+ background-color: #D6FCF4;
+ margin: auto;
+}
+.button:hover, .button:active{
+ border:2px solid #BFBFBF;
+ color: #8C8C8C;
+ background-color: #E8E8E8;
+}
